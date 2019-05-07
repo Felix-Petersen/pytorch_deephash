@@ -10,6 +10,8 @@ This is the Pytorch implementation of [Deep Learning of Binary Hash Codes for Fa
 
 > torchvision 0.2.1
 
+`. ../.env1/bin/activate && cd experiments/pytorch_deephash/`
+
 ## Training
 
 ```python
